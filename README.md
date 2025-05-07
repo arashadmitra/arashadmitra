@@ -21,7 +21,7 @@
 ### 📫 How to reach me:  
 - GitHub: [@arashadmitra](https://github.com/arashadmitra)  
 - LinkedIn: - 
-- Email: arashadmitra@outlook.com 
+- Email: arashad.mitra@outlook.com 
 
 ### ⚡ Fun fact:  
 I’m passionate about **building efficient and scalable Flutter apps** with a focus on **real-world applications**!  
